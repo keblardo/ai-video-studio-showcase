@@ -72,7 +72,7 @@ idea → script → voice → Whisper word timings → Remotion / three.js scene
 
 Finished videos are linked from my portfolio site:
 
-- **[Watch the "What if…?" videos on my portfolio](https://portafolio-cristian.vercel.app/#contenido)**: 12 vertical shorts rendered with this pipeline (black hole over Times Square, Miami without humans, Earth stops spinning, no electrons…), plus a 3D ad for blu.live.
+- **[Watch the "What if…?" videos on my portfolio](https://portafolio-cristian-green.vercel.app/#contenido)**: 12 vertical shorts rendered with this pipeline (black hole over Times Square, Miami without humans, Earth stops spinning, no electrons…), plus a 3D ad for blu.live.
 - TikTok: [@sinestesia777](https://www.tiktok.com/@sinestesia777) (the 3D series) and [@secuencia007](https://www.tiktok.com/@secuencia007) (11.7K followers, one video at 7.3M views).
 
 ## Tech stack
